@@ -69,7 +69,7 @@ If you use this code, please cite both the original paper and acknowledge the or
 
 ## Contact
 
-Email: js3320@ic.ac.uk
+Email: 0410jiho@gmail.com
 
 ## Disclaimer
 
